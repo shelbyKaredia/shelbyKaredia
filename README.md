@@ -1,16 +1,13 @@
-### Hi there 👋
+My name is Shelby Karedia
 
-<!--
-**shelbyKaredia/shelbyKaredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 17 years old studying in Klein Oak High School
 
-Here are some ideas to get you started:
+I was born in India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I am an Aries born on April 12,2006
+
+My favorite color is purple,
+
+My favorite candy is KitKat
+
+My favorite TV show is Friends. 
