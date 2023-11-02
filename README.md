@@ -11,3 +11,11 @@ My favorite color is purple,
 My favorite candy is KitKat
 
 My favorite TV show is Friends. 
+
+## Here's some of my favorite things
+- Number: 12
+- IceCream: Cookies&Cream
+- Book: The Inheritance Games
+- Video Game: 2048
+- Cookie: Chewy Chocalte Chip
+- 
